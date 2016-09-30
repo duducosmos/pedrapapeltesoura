@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="computador">Computer</string>
+    <string name="app_name">Rock Scissor Paper</string>
+    <string name="game_over">Game Over</string>
+    <string name="ganhou">Congratulations, You Win.</string>
+    <string name="jogador">Player</string>
+    <string name="jogar">Play</string>
+    <string name="papel">Paper</string>
+    <string name="pedra">Rock</string>
+    <string name="perdeu">Try Again</string>
+    <string name="tesoura">Scissor</string>
+</resources>

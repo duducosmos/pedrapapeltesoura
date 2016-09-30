@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="preference_file_key" translatable="false">br.com.bigdatatec.pedrapapeltesoura</string>
+    <string name="pedra">Pedra</string>
+    <string name="papel">Papel</string>
+    <string name="tesoura">Tesoura</string>
+    <string name="jogar">Jogar</string>
+    <string name="jogador">Jogador: </string>
+    <string name="computador">Computador: </string>
+    <string name="ganhou">Parabéns, você ganhou</string>
+    <string name="perdeu">Não foi dessa vez</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3304253168392468/5528207291</string>
+    <string name="game_over">Fim do Jogo</string>
+    <string name="estadosom" translatable="false">br.com.bigdatatec.pedrapapeltesoura.estadosom</string>
+</resources>
